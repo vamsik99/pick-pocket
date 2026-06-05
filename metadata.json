@@ -1,0 +1,6 @@
+{
+  "name": "PickPocket",
+  "description": "Steals from your earnings, donates to your savings. A playful personal expense tracker that uses Gemini AI to automatically categorize transactions, parse payment screenshots using fast OCR, and manage custom goal-based stashes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
